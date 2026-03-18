@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "IRIS OUT",
   "base_artist": "米津玄師",
-  "createdAt": "2025-12-02T12:56:16.171167Z",
+  "createdAt": "2026-03-18T10:03:30.836542Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -69,12 +69,227 @@
       "path": "select/08_IRIS_OUT_Song,_Kenshi_Yonezu.lrc"
     },
     {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "IRIS OUT",
+      "artist": "Kenshi Yonezu, 259M plays",
+      "has_synced": true,
+      "path": "select/09_IRIS_OUT_Kenshi_Yonezu,_259M_plays.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "IRIS OUT",
+      "artist": "Trickle",
+      "has_synced": false,
+      "path": "select/10_IRIS_OUT_Trickle.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Iris in the Dark",
+      "artist": "Just A Gent feat. McCall",
+      "has_synced": true,
+      "path": "select/11_Iris_in_the_Dark_Just_A_Gent_feat._McCall.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Iris in the Dark",
+      "artist": "Just a Gent, McCall",
+      "has_synced": true,
+      "path": "select/12_Iris_in_the_Dark_Just_a_Gent,_McCall.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Iris",
+      "artist": "Roger Eno feat. Brian Eno",
+      "has_synced": false,
+      "path": "select/13_Iris_Roger_Eno_feat._Brian_Eno.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Iris",
+      "artist": "Roger Eno",
+      "has_synced": false,
+      "path": "select/14_Iris_Roger_Eno.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Iris (live)",
+      "artist": "The Breeders",
+      "has_synced": false,
+      "path": "select/15_Iris_(live)_The_Breeders.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Iris [Live]",
+      "artist": "Breeders",
+      "has_synced": false,
+      "path": "select/16_Iris_[Live]_Breeders.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Iris Art",
+      "artist": "Echobelly",
+      "has_synced": false,
+      "path": "select/17_Iris_Art_Echobelly.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Gravity - Iris Remix",
+      "artist": "The Atomica Project",
+      "has_synced": false,
+      "path": "select/18_Gravity_-_Iris_Remix_The_Atomica_Project.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Iris",
+      "artist": "Hercules & Love Affair",
+      "has_synced": true,
+      "path": "select/19_Iris_Hercules_&_Love_Affair.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Iris",
+      "artist": "Hercules and Love Affair",
+      "has_synced": true,
+      "path": "select/20_Iris_Hercules_and_Love_Affair.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Iris",
+      "artist": "The Breeders",
+      "has_synced": false,
+      "path": "select/21_Iris_The_Breeders.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Iris",
+      "artist": "Roger Eno and Brian Eno",
+      "has_synced": false,
+      "path": "select/22_Iris_Roger_Eno_and_Brian_Eno.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Not Your Fault (The Never After Falling Iris Remix)",
+      "artist": "Awolnation",
+      "has_synced": true,
+      "path": "select/23_Not_Your_Fault_(The_Never_After_Falling_Iris_Remix)_Awolnation.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Iris (Live at Glastonbury)",
+      "artist": "The Breeders",
+      "has_synced": false,
+      "path": "select/24_Iris_(Live_at_Glastonbury)_The_Breeders.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Iris (Hold Me Close)",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/25_Iris_(Hold_Me_Close)_U2.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Iris (Hold Me Close)",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/26_Iris_(Hold_Me_Close)_U2.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Iris",
+      "artist": "Goo Goo Dolls",
+      "has_synced": true,
+      "path": "select/27_Iris_Goo_Goo_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Iris",
+      "artist": "Pellumair",
+      "has_synced": false,
+      "path": "select/28_Iris_Pellumair.txt"
+    },
+    {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "IRIS OUT",
       "artist": "米津玄師",
       "has_synced": false,
       "path": "select/pl_01_IRIS_OUT_米津玄師.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "IRIS OUT",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/localdb_01_IRIS_OUT_米津玄師.lrc",
+      "repo_name": "LmZD-TU96q4"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "IRIS OUT",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/localdb_02_IRIS_OUT_米津玄師.lrc",
+      "repo_name": "MJ70B_cwnPk"
+    },
+    {
+      "id": "localdb_dynamic_2",
+      "source": "localdb",
+      "title": "IRIS OUT",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/localdb_02_IRIS_OUT_米津玄師.dynamic.lrc",
+      "kind": "dynamic",
+      "repo_name": "MJ70B_cwnPk"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "IRIS OUT",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/localdb_03_IRIS_OUT_米津玄師.lrc",
+      "repo_name": "4QAmwIyQrVY"
+    },
+    {
+      "id": "localdb_4",
+      "source": "localdb",
+      "title": "IRIS OUT",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/localdb_04_IRIS_OUT_米津玄師.lrc",
+      "repo_name": "1_133wBMdhI"
+    },
+    {
+      "id": "localdb_5",
+      "source": "localdb",
+      "title": "IRIS OUT",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/localdb_05_IRIS_OUT_米津玄師.lrc",
+      "repo_name": "ux3QETpLcPs"
     }
   ]
 }
