@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "IRIS OUT",
-  "base_artist": "米津玄師",
-  "createdAt": "2026-03-21T04:11:59.428471Z",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2026-03-22T02:00:36.292691Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -240,56 +240,29 @@
       "id": "localdb_1",
       "source": "localdb",
       "title": "IRIS OUT",
-      "artist": "米津玄師",
+      "artist": "Kenshi Yonezu",
       "has_synced": true,
-      "path": "select/localdb_01_IRIS_OUT_米津玄師.lrc",
+      "path": "select/localdb_01_IRIS_OUT_Kenshi_Yonezu.lrc",
       "repo_name": "LmZD-TU96q4"
     },
     {
       "id": "localdb_2",
       "source": "localdb",
       "title": "IRIS OUT",
-      "artist": "米津玄師",
+      "artist": "Kenshi Yonezu",
       "has_synced": true,
-      "path": "select/localdb_02_IRIS_OUT_米津玄師.lrc",
+      "path": "select/localdb_02_IRIS_OUT_Kenshi_Yonezu.lrc",
       "repo_name": "MJ70B_cwnPk"
     },
     {
       "id": "localdb_dynamic_2",
       "source": "localdb",
       "title": "IRIS OUT",
-      "artist": "米津玄師",
+      "artist": "Kenshi Yonezu",
       "has_synced": true,
-      "path": "select/localdb_02_IRIS_OUT_米津玄師.dynamic.lrc",
+      "path": "select/localdb_02_IRIS_OUT_Kenshi_Yonezu.dynamic.lrc",
       "kind": "dynamic",
       "repo_name": "MJ70B_cwnPk"
-    },
-    {
-      "id": "localdb_3",
-      "source": "localdb",
-      "title": "IRIS OUT",
-      "artist": "米津玄師",
-      "has_synced": true,
-      "path": "select/localdb_03_IRIS_OUT_米津玄師.lrc",
-      "repo_name": "4QAmwIyQrVY"
-    },
-    {
-      "id": "localdb_4",
-      "source": "localdb",
-      "title": "IRIS OUT",
-      "artist": "米津玄師",
-      "has_synced": true,
-      "path": "select/localdb_04_IRIS_OUT_米津玄師.lrc",
-      "repo_name": "1_133wBMdhI"
-    },
-    {
-      "id": "localdb_5",
-      "source": "localdb",
-      "title": "IRIS OUT",
-      "artist": "米津玄師",
-      "has_synced": true,
-      "path": "select/localdb_05_IRIS_OUT_米津玄師.lrc",
-      "repo_name": "ux3QETpLcPs"
     }
   ]
 }
