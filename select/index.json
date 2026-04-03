@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "IRIS OUT",
   "base_artist": "米津玄師",
-  "createdAt": "2026-04-02T03:24:06.537695Z",
+  "createdAt": "2026-04-03T16:37:42.359506Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -17,8 +17,8 @@
       "source": "lrclib",
       "title": "IRIS OUT",
       "artist": "Kenshi Yonezu",
-      "has_synced": false,
-      "path": "select/02_IRIS_OUT_Kenshi_Yonezu.txt"
+      "has_synced": true,
+      "path": "select/02_IRIS_OUT_Kenshi_Yonezu.lrc"
     },
     {
       "id": "lrclib_3",
